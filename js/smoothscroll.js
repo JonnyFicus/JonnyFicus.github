@@ -1,4 +1,4 @@
-$(".container ul li a[href^='#']").on('click', function(e) {
+/*$(".container ul li a[href^='#']").on('click', function(e) {
 
 	// prevent default anchor click behavior
 	e.preventDefault();
@@ -18,7 +18,7 @@ $(".container ul li a[href^='#']").on('click', function(e) {
 
 });
 
-$(".contact[href^='#']").on('click', function(e) {
+$("contact[href^='#']").on('click', function(e) {
 
 	// prevent default anchor click behavior
 	e.preventDefault();
@@ -37,3 +37,4 @@ $(".contact[href^='#']").on('click', function(e) {
 	});
 
 });
+*/
